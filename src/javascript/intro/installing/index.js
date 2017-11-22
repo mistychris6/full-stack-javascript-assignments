@@ -1,12 +1,13 @@
-export const name = '';
+export const name = 'MistySue Christiansen';
 
-export const email = '';
+export const email = 'mistychris6@gmail.com';
 
-export const phone = '801-201-2200';
+export const phone = '801-755-0572';
 
 // Write code here
 
-console.log(name);
+console.log(name)   
+
 console.log(email);
 console.log(phone);
 
